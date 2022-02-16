@@ -1,0 +1,29 @@
+.body{
+     display: flex;
+     margin-top: 200px;
+     margin-left: 400px;
+}
+
+.body__right{
+    margin-left: 100px;
+    width: 30ch;
+    height: 30vh;
+    background-color: aquamarine;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid;
+}
+
+.body__left{
+    margin-right: 100px;
+    width: 30ch;
+    height: 30vh;
+    background-color: aquamarine;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid;
+}
+.items{
+    font-size: 25px;
+    font-weight: 400;
+}

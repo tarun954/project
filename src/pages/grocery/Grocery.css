@@ -1,0 +1,24 @@
+.grocery{
+    display: flex;  
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid;
+    margin-top: 200px;
+    height: 20vh;
+    width: 80ch; 
+    margin-left:  350px ;
+     
+}
+
+.grocery > input{
+    display: flex;
+    width: 60ch;
+}
+.grocery > button{
+    display: flex;
+    margin-top: 20px;
+}
+.span{
+    display: flex;
+    margin-bottom: 15px;
+}
